@@ -1,5 +1,8 @@
 # 🍽️ Zomato Restaurants Analysis Dashboard
 
+![Dashboard](https://github.com/user-attachments/assets/ed39d472-9294-4990-a52c-80624853499c)
+
+
 A Power BI Dashboard project that provides insightful analysis of Zomato's restaurant data across multiple countries, cities, and cuisines.
 
 ## 📊 Features
